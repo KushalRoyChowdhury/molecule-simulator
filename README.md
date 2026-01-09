@@ -43,7 +43,7 @@ This project demonstrates a custom physics engine running a Verlet integration l
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/molecular-designer.git
+    git clone https://github.com/KushalRoyChowdhury/molecule-simulator
     cd molecular-designer
     ```
 
